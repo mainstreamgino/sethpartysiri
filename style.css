@@ -1,0 +1,131 @@
+.container-fluid {
+    background-color: #303d37;
+}
+
+h1{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #f8f7f7;
+    font-size: 70pt !important;
+    text-align: left;
+}
+
+h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #f8f7f7;
+    font-size: 35pt;
+}
+
+.navbar-nav {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20pt;
+    padding: 0.5cm;
+}
+
+.btn-lg {
+    background-color: #f8f7f7 !important;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #303d37;
+    text-align: center !important;
+    font-size: 20pt !important;
+    width: 150px;
+    height: 75px;
+    border: 0px;
+}
+
+.brn-lg:hover {
+    background-color: #d5d4d4 !important;
+}
+
+.btn-primary {
+    background-color: #303d37 !important;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #f8f7f7;
+    text-align: center !important;
+    font-size: 15pt !important;
+    width: 100px;
+    height: 50px;
+    border: 0px;
+}
+
+.btn-primary:hover {
+    background-color: #607b6f !important;
+    border: 0px;
+}
+
+.card {
+    border-radius: 50px;
+    background-color:#ebebeb;
+    padding: 2cm;
+}
+
+html,body {
+    margin:0;
+    padding:0;
+}
+
+.interestedbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.btn.btn-primary.btn-lg.interested {
+    background-color: #f8f7f7 !important;
+    color: #303d37;
+    height: 50px;
+    width: 1000px;
+    font-size: 15pt !important;
+}
+
+.btn.btn-primary.btn-lg.interested:hover {
+    background-color: #d5d4d4 !important;
+}
+
+.d-grid.gap-2 {
+    padding: 5cm;
+}
+
+.col-8 {
+    padding: 4cm;
+    margin: 0;
+}
+
+body {
+    margin: 0%;
+    padding: 0
+    ;
+}
+
+.col-4 {
+    padding-right: 5cm;
+    margin: 0;
+}
+
+.nav-item.nav-link {
+    color: #f8f7f7 !important;
+    font-size: 20pt !important;
+}
+
+.nav-item.nav-link.active {
+    color: #ebebeb !important;
+    font-size: 20pt !important;
+}
+
+.footerbutton {
+    color: #f8f7f7;
+    padding: 5cm;
+    font-size: 30pt;
+}
+
+.footerlogo {
+    padding: 2cm;
+}
+
+.site-footer {
+    background-color: #f8f7f7 !important;
+}
+
+.fa-instrgam {
+    color: #f8f7f7 !important;
+}

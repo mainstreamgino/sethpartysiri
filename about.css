@@ -1,0 +1,59 @@
+.container-fluid {
+    background-color: #303d37;
+}
+
+h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #f8f7f7;
+    font-size: 35pt;
+    padding-right: 3cm;
+    padding-bottom: 0.5cm;
+}
+
+.navbar-nav {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20pt;
+    padding: 0.5cm;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: #f8f7f7 !important;
+    font-size: 15pt;
+    text-align: justify;
+    padding-right: 3cm;
+
+}
+
+.nav-item.nav-link {
+    color: #f8f7f7 !important;
+    font-size: 20pt !important;
+}
+
+.nav-item.nav-link.active {
+    color: #ebebeb !important;
+    font-size: 20pt !important;
+}
+
+.col-4 {
+    padding-left: 2cm;
+    padding-bottom: 2cm;
+}
+
+.chefimage {
+    border-radius: 50px !important;
+}
+
+.footerbutton {
+    color: #f8f7f7 !important;
+    padding: 5cm;
+    font-size: 30pt;
+}
+
+.footerlogo {
+    padding: 2cm;
+}
+
+.site-footer {
+    background-color: #f8f7f7 !important;
+}

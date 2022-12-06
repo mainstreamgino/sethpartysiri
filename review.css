@@ -1,0 +1,57 @@
+.container-fluid {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #f8f7f7;
+}
+
+.card {
+    background-color: #ebebeb;
+    border-radius: 50px;
+    padding: 2cm;
+}
+
+.col {
+    padding: 1cm;
+    height: 20cm;
+}
+
+.nav-item.nav-link {
+    color: #303d37 !important;
+    font-size: 20pt !important;
+}
+
+.nav-item.nav-link.active {
+    color: #303d37 !important;
+    font-size: 20pt !important;
+}
+
+.navbar-nav {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20pt;
+    padding: 0.5cm;
+}
+
+h5{
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 20pt !important;
+    color: #303d37;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #303d37 !important;
+    font-size: 15pt;
+    text-align: justify;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.image {
+
+}
+
+.card-title {
+    padding-bottom: 0cm;
+}

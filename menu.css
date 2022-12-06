@@ -1,0 +1,75 @@
+.container-fluid {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #f8f7f7;
+}
+
+h2{
+    font-family:'Barlow Condensed', sans-serif;
+    font-size: 50pt !important;
+    color: #303d37;
+}
+
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #303d37 !important;
+    font-size: 15pt;
+    text-align: justify;
+    padding-right: 3cm;
+}
+
+.chouxcontent {
+    padding-left: 5cm !important;
+}
+
+.chouxprice {
+    padding-top: 2.5cm;
+    padding-left: 5cm;
+}
+
+.chouximage {
+    padding-right: 5cm;
+}
+
+.swissrollcontent {
+    padding-left: 5cm !important;
+}
+
+.swissrollprice {
+    padding-top: 2.5cm;
+    padding-left: 5cm;
+}
+
+.swissrollimage {
+    padding-right: 5cm;
+}
+
+.cakecontent {
+    padding-left: 5cm !important;
+}
+
+.cakeprice {
+    padding-top: 2.5cm;
+    padding-left: 5cm;
+}
+
+.cakeimage {
+    padding-right: 5cm;
+    padding-top: 2.5cm;
+}
+
+.nav-item.nav-link {
+    color: #303d37 !important;
+    font-size: 20pt !important;
+}
+
+.nav-item.nav-link.active {
+    color: #303d37 !important;
+    font-size: 20pt !important;
+}
+
+.navbar-nav {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20pt;
+    padding: 0.5cm;
+}
